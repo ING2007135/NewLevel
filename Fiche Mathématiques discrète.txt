@@ -1,0 +1,213 @@
+                               MATHEMATIQUES DISCRETE
+    
+  TABLE DE MATIERES:
+CHAPITRE 1: FONDEMENTS
+    
+      |- Raisonnement par récurence
+
+  -DEFINITION: Raisonnement par récurence simple:
+-Exemple
+
+  .Initialisation:
+  .Hérédité:
+  
+-DEFINITION: Raisonnement par récurence d'ordre 2
+-DEFINITION: Raisonnement par récurence d'ordre k
+-DEFINITION: Raisonnement par récurence forte
+      *EXERCICE:
+ Démontrer par récurence que pour tout n appartenant à N  (somme n i=0 qi = 1-qn+1/1-q)
+somme de n i=0 (2i+1)=(n+1)²
+
+
+||- INDUCTION:
+ 1- Ensembles définis inductivement
+-Règles de bases
+-Règles inductives
+-Exemples:
+*Définition:
+-Exemples
+
+
+* THEOREME:
+-EXERCICE: démontrer ce théorème.
+ 
+2-Fonction définie inductivement
+*Définition: Base, induction
+  -EXERCICE:
+ -Exemple: Base, Induction   
+ -Exemple: Fonction inductivement définit 
+
+3- Preuve par induction structurel
+  -Théorème
+i-)Base
+ii-)Induction
+Exemple
+   
+
+     CHAPITRE 2: ALGEBRE DE BOOL:
+
+    |-/Booléens:
+Définition
+Définition
+Définition 
+   Exemple 
+Définition
+Définition
+ Remarque
+ Exemple
+
+||-/ FONCTION BOOLEENNES
+ Remarque
+3/ Table de vérité
+Propriétés
+Définition
+4/ Comparaison
+  Exemple
+ Définition
+5/ Support d'une fonction booléenne
+Définition 
+Exemple
+
+|||-/Opérations sur les fonctions booléennes
+1-/Composition de fonctions booléennes 
+Définition
+Exemple
+Définition 
+i-/Base
+ii-/Induction
+Définition
+Définition
+
+
+
+CHAPITRE 3: THEORIE DES LANGAGES
+   |-/introduction à la théorie des langages
+Definition
+Exemple
+Remarque
+Définition
+Définition
+Définition
+Exemple
+Remarque
+Exemple
+   
+   2-/ Loi produit et factorisation
+Définition
+Proposition
+Définition
+Définition
+Exemple
+ 
+  3-/ Définition et opération sur les langages
+Définition
+
+Définition : Opération ensembliste 
+Définition non ensembliste 
+ Exemple
+Exemple
+Définition
+Proposition
+Proposition
+
+||-/Langage rationnel
+1-/Définition
+2-/Expressions rationnelles
+Définition 
+Définition
+
+    EXERCICE 3
+    EXERCICE 4
+
+
+CHAPITRE 4: THEORIE DES AUTOMATES
+|-/ Introduction à la théorie des automates
+
+Définition
+
+Définition
+
+Exemple de représentation sagittale
+
+Définition
+Exemple
+Définition
+Définition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

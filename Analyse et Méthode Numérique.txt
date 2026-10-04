@@ -1,0 +1,65 @@
+                                  ANALYSE ET METHODE NUMERIQUES
+
+
+         CHAPITRE 1 :les fondements du calcul scientifiques 
+
+|- Objectifs:
+    Types d'erreurs:
+          * Erreur de la modélisation:
+          * Erreur sur les données Expérimentales:
+          * Erreur d'arrondi: 
+          * Erreur humaine:
+          * Erreur d'approximation: 
+          * Erreur absolue et relative: 
+     - DEFINITION:
+   -Exercice:
+          * Stabilité des méthodes numériques:
+          * Représentation de la partie décimale d'un nombre:
+          * Caractérisation d'un problème bien posé:
+                  -Définition:
+                   -Exercice:
+          * La résolvante: 
+          * Cumulation des erreurs d'arrondi:
+               -Travaux dirigés:
+
+
+||-Résolution des méthodes de dichotomie: 
+    * Théorème des zéros d'une fonction continue:
+    * Principe de la méthode de dichotomie: 
+
+  1./ Méthode de dichotomie:
+      *Convergence:
+      *Critère d'arrêts:
+        -Exercice:
+  2./ Méthode de la corde ,de la sécante et de newton-ranphson:
+      *Convergence de la méthode de newton-ranphson:
+     
+CHAPITRE 2: EQUATION NON LINEAIRE
+
+
+CHAPITRE 3: INTERPOLATION ET APPROXIMATION:
+
+|- INTRODUCTION:
+    *Interpolation de newton:
+
+||-Méthode d'approximation des moindres carrés:
+  1./ Loi des moindres carrés:
+      *Méthode des moindres carrés:
+          -Exercice:
+
+
+CHAPITRE 4:SYSTEME LINEAIRE:
+ 
+ |- Les matrices:
+ 
+ ||- Les méthodes directes:
+     1./ DEFINITION:
+     2./ Factorisation L U:
+     3./ Méthode de choleski:
+         *Conditionnement :
+     4./ Méthode itérative: 
+  
+CHAPITRE 5: INTEGRATION NUMERIQUE
+
+  
+ 
